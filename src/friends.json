@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/NEW_Vegeta_Dragon_Ball_Image.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Dragon_Ball_Z_Character_Mr._Popo_1111.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Dragon_Ball_Z_Character_Boo_1111.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Dragon_Ball_Z_Character_Goku_1111.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Dragon_Ball_Z_Character_Chiatzu_1111.gif",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Dragon_Ball_Z_Character_Beerus_1111.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Dragon_Ball_Z_Character_Tien_1111.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Dragon_Ball_Z_Character_Master_Roshi_1111.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dragon_Ball_Z_Character_Cell_1111.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Dragon_Ball_Z_Character_Whis_1111.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Dragon_Ball_Z_Character_Omega_Shenron_1111.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Dragon_Ball_Z_Character_Frieza_1111.png",
+    "clicked": false
+  }
+]
+
+
+
